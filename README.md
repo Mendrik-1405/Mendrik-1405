@@ -10,6 +10,12 @@
    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a>
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png"
+      alt="php" width="40" height="40" /> </a>
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+      src="https://laravel.com/img/logomark.min.svg"
+      alt="laravel" width="40" height="40" /> </a>
    <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a>
