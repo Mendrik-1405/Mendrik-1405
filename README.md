@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! 👋, I'm Mendrika</h1>
 <h3 align="center">Student at ITU 🌟.</h3>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 🌱 I’m currently learning Development and other programming languages
 - 📫 How to reach me **mendrika1401@gmail.com**
 
 <br>
